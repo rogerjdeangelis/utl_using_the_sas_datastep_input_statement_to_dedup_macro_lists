@@ -1,0 +1,2 @@
+# utl_using_the_sas_datastep_input_statement_to_dedup_macro_lists
+Using the SAS datastep input statement to dedup macro lists.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
